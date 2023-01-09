@@ -7,6 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mosetlhethapelo@gmail.com (Home)</managingEditor>
-    <webMaster>mosetlhethapelo@gmail.com (Home)</webMaster><atom:link href="https://thapmose.github.io/web/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>mosetlhethapelo@gmail.com (Home)</webMaster>
+    <lastBuildDate>Tue, 04 Jan 2022 15:52:46 +0200</lastBuildDate><atom:link href="https://thapmose.github.io/web/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://thapmose.github.io/web/tags/ai/</link>
+      <pubDate>Tue, 04 Jan 2022 15:52:46 +0200</pubDate>
+      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <guid>https://thapmose.github.io/web/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://thapmose.github.io/web/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 04 Jan 2022 15:52:46 +0200</pubDate>
+      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <guid>https://thapmose.github.io/web/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence and Machine Learning Blog</title>
+      <link>https://thapmose.github.io/web/tags/artificial-intelligence-and-machine-learning-blog/</link>
+      <pubDate>Tue, 04 Jan 2022 15:52:46 +0200</pubDate>
+      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <guid>https://thapmose.github.io/web/tags/artificial-intelligence-and-machine-learning-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://thapmose.github.io/web/tags/machine-learning/</link>
+      <pubDate>Tue, 04 Jan 2022 15:52:46 +0200</pubDate>
+      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <guid>https://thapmose.github.io/web/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://thapmose.github.io/web/tags/ml/</link>
+      <pubDate>Tue, 04 Jan 2022 15:52:46 +0200</pubDate>
+      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <guid>https://thapmose.github.io/web/tags/ml/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Thapelo Mosetlhe</title>
-    <link>https://thapmose.github.io/web/posts/</link>
-    <description>Recent content in Posts on Thapelo Mosetlhe</description>
+    <title>Machine Learning on Thapelo Mosetlhe</title>
+    <link>https://thapmose.github.io/web/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Thapelo Mosetlhe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mosetlhethapelo@gmail.com (Home)</managingEditor>
     <webMaster>mosetlhethapelo@gmail.com (Home)</webMaster>
-    <lastBuildDate>Tue, 04 Jan 2022 15:52:46 +0200</lastBuildDate><atom:link href="https://thapmose.github.io/web/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 15:52:46 +0200</lastBuildDate><atom:link href="https://thapmose.github.io/web/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2. Artificial Intelligence and Machine Learning</title>
       <link>https://thapmose.github.io/web/posts/2_aiandml_blog/</link>
@@ -26,20 +26,6 @@
       <guid>https://thapmose.github.io/web/posts/1_aiandml_blog/</guid>
       <description>Artificial intelligence: Introduction To accelerate the deployment of artificial intelligence (AI), executives in various sectors will be required to make decisive and informed decisions about where and how to employ these technologies in their businesses. This series of posts will give AI essentials to enable quick actions leveraging AI technologies.
 Artificial intelligence: A definition Several definitions for Artificial Intelligence (AI) exist on the internet. In general, AI can be defined as the ability of a machine to mimic human intelligence to perform cognitive functions that can be associated with human minds.</description>
-    </item>
-    
-    <item>
-      <title>Thesis defense of Thapelo MOSETLHE</title>
-      <link>https://thapmose.github.io/web/posts/phd_defense/</link>
-      <pubDate>Sun, 03 Oct 2021 15:52:46 +0200</pubDate>
-      <author>mosetlhethapelo@gmail.com (Home)</author>
-      <guid>https://thapmose.github.io/web/posts/phd_defense/</guid>
-      <description>Title :	Model-free pressure control in water distribution networks
-Doctoral School :	Information and Communication Sciences and Technologies (STIC)
-Specialisation :	Automation
-Establishment :	Universite Paris-Saclay Graduate School: Informatique et sciences du numérique
-Research unit :	EA 4048 - Laboratoire d’Ingénierie des Systèmes de Versailles
-This defense took place on Wednesday 03 November 2021.</description>
     </item>
     
   </channel>

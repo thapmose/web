@@ -1,0 +1,49 @@
++++ 
+date = 2022-01-03T15:52:46+02:00
+title = "1. Artificial Intelligence and Machine Learning"
+slug = "" 
+tags = ["Artificial Intelligence", "Machine Learning", "Artificial Intelligence and Machine Learning Blog", "AI", "ML"]
+categories = []
+thumbnail = "<no value>"
+description = "My First blog"
++++
+
+## Artificial intelligence: Introduction
+-----------------
+To accelerate the deployment of artificial intelligence (AI), executives in various sectors will be required to make decisive and informed decisions about where and how to employ these technologies in their businesses. This series of posts will give AI essentials to enable quick actions leveraging AI technologies.
+## Artificial intelligence: A definition
+--------------------------
+Several definitions for Artificial Intelligence (AI) exists in the internet. In general, AI can be defined as the ability of a machine to mimic human intelligence to perform cognitive functions that can be associated with human minds. These cognitive functions includes, but not limited to, perceiving, reasoning, learning, and problem solving.
+
+|![Alt text](https://github.com/thapmose/web/blob/main/img/ai_functions.PNG?raw=true)|
+|:--:|
+| *Cognitive functions performed by AI* |  
+
+## Artificial intelligence: A brief history
+--------------------------
+A convergence of algorithmic advances, data proliferation, and tremendous increases in computing power and storage has propelled AI from hype to reality [1].
+
+#### 1805 – Legendre lays the groundwork for machine learning
+#### 1958 – Rosenblatt develops the first self-learning algorithm
+#### 1965 – Birth of deep learning
+#### 1986 – Backpropagation takes hold
+#### 1989 – Birth of CNNs for image recognition
+#### 1992 – Upgraded SVMs provide early natural-language-processing solution
+#### 1997 – RNNs get a “memory,” positioning them to advance speech to text
+#### 1998 – Brin and Page publish PageRank algorithm
+
+## Artificial intelligence: Value Chain
+--------------------------
+The value chain of AI consists of four broad steps; (1) Data inputs, (2)Data management, (3) AI Technology, and (4) AI use case. Figure below gives breakdown of these steps.
+
+|![Alt text](https://github.com/thapmose/web/blob/main/img/AI_value_chain.PNG?raw=true)|
+|:--:|
+| *AI Value Chain* | 
+
+Evidently, Machine Learning is one of the key AI technolgies. As the title reads "Artificial Intelligence and Machine Learning", I will deal with the theoritical and ractical aspects of ML is a series posts. 
+
+## References
+
+[1] An Executive’s Guide to AI | McKinsey. https://www.mckinsey.com/capabilities/quantumblack/our-insights/an-executives-guide-to-ai. Accessed 3 Jan. 2022.
+
+## Next... Machine learning
