@@ -6,14 +6,14 @@
     <description>Recent content on Thapelo Mosetlhe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mosetlhethapelo@gmail.com (Home)</managingEditor>
-    <webMaster>mosetlhethapelo@gmail.com (Home)</webMaster>
+    <managingEditor>mosetlhethapelo@gmail.com (T Mosetlhe)</managingEditor>
+    <webMaster>mosetlhethapelo@gmail.com (T Mosetlhe)</webMaster>
     <lastBuildDate>Tue, 04 Jan 2022 15:52:46 +0200</lastBuildDate><atom:link href="https://thapmose.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2. Artificial Intelligence and Machine Learning</title>
       <link>https://thapmose.github.io/web/posts/2_aiandml_blog/</link>
       <pubDate>Tue, 04 Jan 2022 15:52:46 +0200</pubDate>
-      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
       <guid>https://thapmose.github.io/web/posts/2_aiandml_blog/</guid>
       <description>Machine Learning: Introduction Machine learning (ML) is a subset branch of artificial intelligence and it enables computers/machines to learn from the data and improve over time without the need for explicit programming. The goal of machine learning generally is to understand the structure of data and fit that data into models that can be understood and utilized by people. Algorithms employed in ML have the capacity to detect patterns in data and learn from them in order to make predictions, classifications, clustering etc.</description>
     </item>
@@ -22,40 +22,80 @@
       <title>1. Artificial Intelligence and Machine Learning</title>
       <link>https://thapmose.github.io/web/posts/1_aiandml_blog/</link>
       <pubDate>Mon, 03 Jan 2022 15:52:46 +0200</pubDate>
-      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
       <guid>https://thapmose.github.io/web/posts/1_aiandml_blog/</guid>
       <description>Artificial intelligence: Introduction To accelerate the deployment of artificial intelligence (AI), executives in various sectors will be required to make decisive and informed decisions about where and how to employ these technologies in their businesses. This series of posts will give AI essentials to enable quick actions leveraging AI technologies.
 Artificial intelligence: A definition Several definitions for Artificial Intelligence (AI) exist on the internet. In general, AI can be defined as the ability of a machine to mimic human intelligence to perform cognitive functions that can be associated with human minds.</description>
     </item>
     
     <item>
-      <title>Thesis defense of Thapelo MOSETLHE</title>
-      <link>https://thapmose.github.io/web/posts/phd_defense/</link>
-      <pubDate>Sun, 03 Oct 2021 15:52:46 +0200</pubDate>
-      <author>mosetlhethapelo@gmail.com (Home)</author>
-      <guid>https://thapmose.github.io/web/posts/phd_defense/</guid>
-      <description>Title :	Model-free pressure control in water distribution networks
-Doctoral School :	Information and Communication Sciences and Technologies (STIC)
-Specialisation :	Automation
-Establishment :	Universite Paris-Saclay Graduate School: Informatique et sciences du numérique
-Research unit :	EA 4048 - Laboratoire d’Ingénierie des Systèmes de Versailles
-This defense took place on Wednesday 03 November 2021.</description>
+      <title>Introduction to Artificial Intelligence</title>
+      <link>https://thapmose.github.io/web/ai_blog/intro/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
+      <guid>https://thapmose.github.io/web/ai_blog/intro/</guid>
+      <description>Artificial intelligence: Introduction To accelerate the deployment of artificial intelligence (AI), executives in various sectors will be required to make decisive and informed decisions about where and how to employ these technologies in their businesses. This series of posts will give AI essentials to enable quick actions leveraging AI technologies.
+Artificial intelligence: A definition Several definitions for Artificial Intelligence (AI) exist on the internet. In general, AI can be defined as the ability of a machine to mimic human intelligence to perform cognitive functions that can be associated with human minds.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Machine Learning</title>
+      <link>https://thapmose.github.io/web/ai_blog/intro_ml/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
+      <guid>https://thapmose.github.io/web/ai_blog/intro_ml/</guid>
+      <description>Machine Learning: Introduction Machine learning (ML) is a subset branch of artificial intelligence and it enables computers/machines to learn from the data and improve over time without the need for explicit programming. The goal of machine learning generally is to understand the structure of data and fit that data into models that can be understood and utilized by people. Algorithms employed in ML have the capacity to detect patterns in data and learn from them in order to make predictions, classifications, clustering etc.</description>
     </item>
     
     <item>
       <title></title>
       <link>https://thapmose.github.io/web/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
       <guid>https://thapmose.github.io/web/resume/</guid>
       <description>PROFESSIONAL APPOINTMENTS TEACHING AND LEARNING EXPERIENCE 1. Senior Lecturer (Jan 2019 - Present) - University of South Africa 2. Doctoral Researcher (Sep 2018 - Nov 2021) - Université Paris-Saclay 3. Post-Graduate Teaching Assistant (Jan 2016 - Jun 2018) - Tshwane University of Technology </description>
+    </item>
+    
+    <item>
+      <title>Cyber-physical attacks in smart-grids</title>
+      <link>https://thapmose.github.io/web/projects/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
+      <guid>https://thapmose.github.io/web/projects/project3/</guid>
+      <description>Contributors Prof. Yusuff A - University of South Africa
+Outputs Publications DETAILS TO FOLLOW
+Artefact DETAILS TO FOLLOW</description>
+    </item>
+    
+    <item>
+      <title>Development of microgrid central controller for enhanced automation</title>
+      <link>https://thapmose.github.io/web/projects/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
+      <guid>https://thapmose.github.io/web/projects/project1/</guid>
+      <description>Contributors Prof. Yusuff A - University of South Africa
+Outputs Publications DETAILS TO FOLLOW
+Artefact DETAILS TO FOLLOW</description>
+    </item>
+    
+    <item>
+      <title>Fault detection and classification in microgrids</title>
+      <link>https://thapmose.github.io/web/projects/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
+      <guid>https://thapmose.github.io/web/projects/project2/</guid>
+      <description>Contributors Prof. Yusuff A - University of South Africa
+Mr. Yokwana X - University of South Africa
+Ms. Chetty K - University of South Africa
+Outputs Publications DETAILS TO FOLLOW
+Artefact DETAILS TO FOLLOW</description>
     </item>
     
     <item>
       <title>My Latest Publications</title>
       <link>https://thapmose.github.io/web/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mosetlhethapelo@gmail.com (Home)</author>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
       <guid>https://thapmose.github.io/web/publications/</guid>
       <description>Journal Articles Mosetlhe, T., Babatunde, O., Yusuff, A., Ayodele, T., &amp;amp; Ogunjuyigbe, A. (2023). A MCDM approach for selection of microgrid configuration for rural water pumping system. Energy Reports, 9, 922-929. Mosetlhe, T. C. (2022). Mitigating water supply deficit through micro-grid powered pumping station. International Journal of Energy and Environmental Engineering, 13(2), 449-455. Yusuff, A. A., Mosetlhe, T. C., &amp;amp; Ayodele, T. R. (2022). Allocation of active power losses to generators in electric power networks.</description>
     </item>

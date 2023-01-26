@@ -1,13 +1,8 @@
-+++ 
-date = 2022-01-04T15:52:46+02:00
-title = "2. Artificial Intelligence and Machine Learning"
-slug = "" 
-tags = ["Artificial Intelligence", "Machine Learning", "Artificial Intelligence and Machine Learning Blog", "AI", "ML"]
-categories = []
-thumbnail = "<no value>"
-description = "My First blog"
-+++
-
+---
+title: "Machine Learning"
+date: 2022-01-03
+tags: ["Artificial Intelligence", "Machine Learning", "Artificial Intelligence and Machine Learning Blog", "AI", "ML"]
+---
 ## Machine Learning: Introduction
 -----------------
 Machine learning (ML) is a subset branch of artificial intelligence and it enables computers/machines to learn from the data and improve over time without the need for explicit programming. The goal of machine learning generally is to understand the structure of data and fit that data into models that can be understood and utilized by people. Algorithms employed in ML have the capacity to detect patterns in data and learn from them in order to make predictions, classifications, clustering etc.
@@ -31,7 +26,10 @@ As the name suggests, in this type of Algorithm, the learning is supervised (i.e
 |:--:|
 | *Supervised Learning* |  
 
-These algorithms are trained on a dataset that is well-labelled. This implies that the training data is already tagged with the correct answer. Once the training has concluded, the machine is given a new set of data and produces the correct labelled.### Unsupervised learning
+These algorithms are trained on a dataset that is well-labelled. This implies that the training data is already tagged with the correct answer. Once the training has concluded, the machine is given a new set of data and produces the correct labelled.
+
+### Unsupervised learning
+
 ### Reinforcement learning
 Reinforcement learning is completely different from supervised and unsupervised learning as both operate on static data. These types of algorithms are intended to develop an agent that will take actions based on observations from the environment. These actions are guided by the need to maximise the cumulative reward (optimal outcome). Reinforcement learning approaches problem-solving by allowing software to explore, interact with and learn from the environment. The figure below gives a graphical explanation of RL algorithms.
 |![Alt text](https://github.com/thapmose/web/blob/main/img/RL_Algo.PNG?raw=true)|
