@@ -8,26 +8,7 @@
     <language>en</language>
     <managingEditor>mosetlhethapelo@gmail.com (T Mosetlhe)</managingEditor>
     <webMaster>mosetlhethapelo@gmail.com (T Mosetlhe)</webMaster>
-    <lastBuildDate>Tue, 04 Jan 2022 15:52:46 +0200</lastBuildDate><atom:link href="https://thapmose.github.io/web/tags/artificial-intelligence-and-machine-learning-blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2. Artificial Intelligence and Machine Learning</title>
-      <link>https://thapmose.github.io/web/posts/2_aiandml_blog/</link>
-      <pubDate>Tue, 04 Jan 2022 15:52:46 +0200</pubDate>
-      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
-      <guid>https://thapmose.github.io/web/posts/2_aiandml_blog/</guid>
-      <description>Machine Learning: Introduction Machine learning (ML) is a subset branch of artificial intelligence and it enables computers/machines to learn from the data and improve over time without the need for explicit programming. The goal of machine learning generally is to understand the structure of data and fit that data into models that can be understood and utilized by people. Algorithms employed in ML have the capacity to detect patterns in data and learn from them in order to make predictions, classifications, clustering etc.</description>
-    </item>
-    
-    <item>
-      <title>1. Artificial Intelligence and Machine Learning</title>
-      <link>https://thapmose.github.io/web/posts/1_aiandml_blog/</link>
-      <pubDate>Mon, 03 Jan 2022 15:52:46 +0200</pubDate>
-      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
-      <guid>https://thapmose.github.io/web/posts/1_aiandml_blog/</guid>
-      <description>Artificial intelligence: Introduction To accelerate the deployment of artificial intelligence (AI), executives in various sectors will be required to make decisive and informed decisions about where and how to employ these technologies in their businesses. This series of posts will give AI essentials to enable quick actions leveraging AI technologies.
-Artificial intelligence: A definition Several definitions for Artificial Intelligence (AI) exist on the internet. In general, AI can be defined as the ability of a machine to mimic human intelligence to perform cognitive functions that can be associated with human minds.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thapmose.github.io/web/tags/artificial-intelligence-and-machine-learning-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Artificial Intelligence</title>
       <link>https://thapmose.github.io/web/ai_blog/intro/</link>
