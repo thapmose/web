@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "Introduction to Machine Learning"
 date: 2022-01-03
 tags: ["Artificial Intelligence", "Machine Learning", "Artificial Intelligence and Machine Learning Blog", "AI", "ML"]
 ---
@@ -28,15 +28,22 @@ As the name suggests, in this type of Algorithm, the learning is supervised (i.e
 
 These algorithms are trained on a dataset that is well-labelled. This implies that the training data is already tagged with the correct answer. Once the training has concluded, the machine is given a new set of data and produces the correct labelled.
 
+* #### *When to use it?*
+These algorithms are generally used when there is a sufficient information on how the inut data is classified or when you know the type of behaviour you want to predict.
 ### Unsupervised learning
+The name unsupervised, implies that this type of algorithms learns without supervision. These algorithms learns patterns from untagged (unlabeled) data (i.e explores input data without being given an explicit output variable).
 
+
+* #### *When to use it?*
+These algorithms are generally used when there is no sufficient information on how the inut data is classified and you want the algorithm to find patterns and classify the data for you.
 ### Reinforcement learning
 Reinforcement learning is completely different from supervised and unsupervised learning as both operate on static data. These types of algorithms are intended to develop an agent that will take actions based on observations from the environment. These actions are guided by the need to maximise the cumulative reward (optimal outcome). Reinforcement learning approaches problem-solving by allowing software to explore, interact with and learn from the environment. The figure below gives a graphical explanation of RL algorithms.
 |![Alt text](https://github.com/thapmose/web/blob/main/img/RL_Algo.PNG?raw=true)|
 |:--:|
-| *Reinforcement learning* |  
+| *Reinforcement learning (www.mathworks.com)* |  
 
-
+* #### *When to use it?*
+Reinforcement learning algorithms are used when don’t have a lot of training data; you cannot clearly define the ideal end state; or the only way to learn about the environment is to interact with it.
 ## Machine Learning vs Deep Learning
 -----------------
 Given the intensive usage of jargon in this field, I have deemed it necessary to explicitly differentiate between Machine learning and Deep learning (DL). As previously described, ML learning enables computers to learn from data, whereas DL deploys a complex structure of algorithms modelled on the human brain to process the data with a logical and layered structure called Artificial Neural Networks (ANN). Simply put, Deep learning is a specialized subset of Machine Learning which, in turn, is a subset of Artificial Intelligence. DL requires less human intervention as the algorithms are already developed like human brains. For example, using DL can enable automatic classification without a need for an additional step called "feature extraction" which is generally necessary with other ML algorithms.
