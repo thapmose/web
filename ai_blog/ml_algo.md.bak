@@ -1,0 +1,44 @@
+---
+title: "Machine Learning Algorithms"
+date: 2022-01-27
+tags: ["Artificial Intelligence", "Machine Learning", "Artificial Intelligence and Machine Learning Blog", "AI", "ML"]
+---
+
+In this section, I will list some of the commonly used ML algorithms. This is not an exhaustive list of ML algorithms that exits. I have also provided some possible applications of these algorithms. Also, the possible applications given are not intended to be an exhaustive list of problems each algorithm is capable of solving. Additionally, some algorithms can be used to solve the smae problem.
+## Supervised learning algorithms
+-----------------
+1. Linear regression - Highly interpretable, standard method for model-ing the past relationship between independent input variables and dependent output variables (which can have an infinite number of values) to help predict future values of the output variables
+* 	*Possible application - Understand product-sales drivers such as competition prices, distribution, advertisement, etc* 
+2. Logistic regression - Extension of linear regression that’s used for classifation tasks, meaning the output variable is binary (eg, only black or white) rather than continuous (eg, an infinite list of potential colors).
+*   *Possible application - Classify customers based on how likely they are to repay a loan*
+3. Linear/quadratic discriminant analysis - Upgrades a logistic regression to deal with nonlinear problems - those in which changes to the value of input variables do not result in proportional changes to the output variables.
+*   *Possible application - Predict a sales lead’s likelihood of closing*
+4. Decision trees - Highly interpretable classification or regression model that splits data-feature values into branches at decision nodes (eg, if a feature is a color, each possible color becomes a new branch) until a final decision output is made.
+*	*Possible application - Understand product attributes that make a product most likely to be purchased*
+5. Naive Bayes - Classification technique that applies Bayes theorem, which allows the probability of an event to be calculated based on knowledge of factors that might affect that event (eg, if an email contains the word “money,” then the probability of it being spam is high).
+*	*Possible application - Create classifiers to filter spam emails.*
+6. Support vector machine - A technique that’s typically used for classification but can be transformed to perform regression. It draws an optimal division between classes (as wide as possible). It also can be quickly generalized to solve nonlinear problems.
+*	*Possible aplication - Predict how many patients a hospital will need to serve in a time period*
+7. Random forest - Classification or regression model that improves the accuracy of a simple decision tree by generating multiple decision trees and taking a majority vote of them to predict the output, which is a continuous variable (eg, age) for a regression problem and a discrete variable (eg, either black, white, or red) for classification.
+*	*Possible aplication - Predict power usage in an electrical-distribution grid.*
+8. AdaBoost - Classification or regression technique that uses a multitude of models to come up with a decision but weighs them based on their accuracy in predicting the outcome.
+*	*Possible application - Detect fraudulent activity in credit-card transactions. Achieves lower accuracy than deep learning.*
+9. Gradient-boosting trees - Classification or regression technique that generates decision trees sequentially, where each tree focuses on correcting the errors coming from the previous tree model. The final output is a combination of the results from all trees.
+*	*Possible application - Predict the price of cars based on their characteristics (eg, age and mileage).*
+10. Simple neural network - Model in which artificial neurons (software-based calculators) make up three layers (an input layer, a hidden layer where calculations take place, and an output layer) that can be used to classify data or find the relationship between variables in regression problems.
+*	*Possible application - Predict whether registered users will be willing or not to pay a particular price for a product.*
+
+## Unupervised learning algorithms
+-----------------
+1. K-means clustering - Puts data into a number of groups (k) that each contain data with similar characteristics (as determined by the model, not in advance by humans).
+*	*Possible application - Segment customers into groups by distinct charateristics (eg, age group)—for instance, to better assign marketing campaigns or prevent churn.*
+2. Gaussian mixture model - A generalization of k-means clustering that provides more flexibility in the size and shape of groups (clusters).
+*	*Possible application - Segment customers to better assign marketing campaigns using less-distinct customer characteristics (eg, product preferences).*
+3. Hierarchical clustering - Splits or aggregates clusters along a hierarchical tree to form a classification system.
+*	*Possible application - Inform product usage/development by grouping customers mentioning keywords in social-media data.*
+4. Recommender system - Often uses cluster behavior prediction to identify the important data necessary for making a recommendation.
+*	*Possible application - Recommend news articles a reader might want to read based on the article she or he is reading.*
+
+## Reinforcement learning algorithms
+-----------------
+*Possible aplications - Optimize the trading strategy for an options-trading portfolio, Balance the load of electricity grids in varying demand cycles, Optimize the driving behavior of self-driving cars*

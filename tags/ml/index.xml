@@ -8,24 +8,34 @@
     <language>en</language>
     <managingEditor>mosetlhethapelo@gmail.com (T Mosetlhe)</managingEditor>
     <webMaster>mosetlhethapelo@gmail.com (T Mosetlhe)</webMaster>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thapmose.github.io/web/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thapmose.github.io/web/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction to Artificial Intelligence</title>
-      <link>https://thapmose.github.io/web/ai_blog/intro/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Machine Learning Algorithms</title>
+      <link>https://thapmose.github.io/web/ai_blog/ml_algo/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
-      <guid>https://thapmose.github.io/web/ai_blog/intro/</guid>
-      <description>Artificial intelligence: Introduction To accelerate the deployment of artificial intelligence (AI), executives in various sectors will be required to make decisive and informed decisions about where and how to employ these technologies in their businesses. This series of posts will give AI essentials to enable quick actions leveraging AI technologies.
-Artificial intelligence: A definition Several definitions for Artificial Intelligence (AI) exist on the internet. In general, AI can be defined as the ability of a machine to mimic human intelligence to perform cognitive functions that can be associated with human minds.</description>
+      <guid>https://thapmose.github.io/web/ai_blog/ml_algo/</guid>
+      <description>In this section, I will list some of the commonly used ML algorithms. This is not an exhaustive list of ML algorithms that exits. I have also provided some possible applications of these algorithms. Also, the possible applications given are not intended to be an exhaustive list of problems each algorithm is capable of solving. Additionally, some algorithms can be used to solve the smae problem.
+Supervised learning algorithms Linear regression - Highly interpretable, standard method for model-ing the past relationship between independent input variables and dependent output variables (which can have an infinite number of values) to help predict future values of the output variables Possible application - Understand product-sales drivers such as competition prices, distribution, advertisement, etc Logistic regression - Extension of linear regression that’s used for classifation tasks, meaning the output variable is binary (eg, only black or white) rather than continuous (eg, an infinite list of potential colors).</description>
     </item>
     
     <item>
       <title>Introduction to Machine Learning</title>
       <link>https://thapmose.github.io/web/ai_blog/intro_ml/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
       <guid>https://thapmose.github.io/web/ai_blog/intro_ml/</guid>
       <description>Machine Learning: Introduction Machine learning (ML) is a subset branch of artificial intelligence and it enables computers/machines to learn from the data and improve over time without the need for explicit programming. The goal of machine learning generally is to understand the structure of data and fit that data into models that can be understood and utilized by people. Algorithms employed in ML have the capacity to detect patterns in data and learn from them in order to make predictions, classifications, clustering etc.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Artificial Intelligence</title>
+      <link>https://thapmose.github.io/web/ai_blog/intro/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <author>mosetlhethapelo@gmail.com (T Mosetlhe)</author>
+      <guid>https://thapmose.github.io/web/ai_blog/intro/</guid>
+      <description>Artificial intelligence: Introduction To accelerate the deployment of artificial intelligence (AI), executives in various sectors will be required to make decisive and informed decisions about where and how to employ these technologies in their businesses. This series of posts will give AI essentials to enable quick actions leveraging AI technologies.
+Artificial intelligence: A definition Several definitions for Artificial Intelligence (AI) exist on the internet. In general, AI can be defined as the ability of a machine to mimic human intelligence to perform cognitive functions that can be associated with human minds.</description>
     </item>
     
   </channel>
